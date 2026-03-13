@@ -24,11 +24,11 @@ Clara Rockmore
 "tienes que tocar como alas de mariposa"
 
 Delia Derbyshire 
--generadores de sonido, modificacion de sonidos grabados en cintas 
--sonidos abstractos - matemáticos 
+- generadores de sonido, modificacion de sonidos grabados en cintas 
+- sonidos abstractos - matemáticos 
 
 Daphne Oran 
--pianista y trabajadora de BBC 
--taller radiofonico 
--armó su propio estudio de musica electronica Oramics
+- pianista y trabajadora de BBC 
+- taller radiofonico 
+- armó su propio estudio de musica electronica Oramics
 - representación grafica del sonido - sonido dibujado  
