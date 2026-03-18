@@ -62,7 +62,22 @@ Read me es un archivo, no una carpeta
 
 **Circuito:** Lazo cerrado con elementos resistivos Fluye la electricidad mediante elementos
 
+**VCC:** voltaje de corriente cotidiana
+
+**GND:** ground, 0V, tierra, voltaje negativo
+
 Mucho de las cosas que hacemos es por sentir algo (aaron)
+
+***post-clase
+
+Cada resistencia debe existir un cable
+
+La resistencia debe ir en la misma línea que el cable y el lado positivo del led en vertical
+
+Todo debe ir en la misma linea
+
+Coloque otro circuito, pero de manera equivocada y la luz del primer circuito fallaba
+
 
 
 
