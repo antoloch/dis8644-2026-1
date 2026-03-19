@@ -46,6 +46,9 @@ Hoy en clases nos entrgaron varios materiales para trabajar en circuitos, aqui u
 + Chip: Es una pastilla de silicio que contiene miles de componentes diminutos en su interior. Sirve para realizar funciones complejas (como procesar datos o amplificar sonido) en un espacio muy reducido.
 + Potenciómetro: ​Es una resistencia variable. Sirve para que tú puedas controlar manualmente la intensidad de algo, como subir el volumen de un parlante o variar el brillo de una luz LED al girar su perilla.
 + Pila: ​Es un dispositivo que convierte energía química en eléctrica. Sirve como la fuente de energía (el "alimento") para que tu circuito pueda funcionar sin estar conectado a un enchufe.
+  
+![imagen_componentes](./imagenes/Apuntes_2.jpg)
 
+### apuntes escritos en clases
 
-![imagen_Aaron_Swartz_2](./imagenes/aaron_swartz_1.jpg)
+![imagen_apuntes](./imagenes/apuntes_clases_1b.jpg)
