@@ -3,7 +3,6 @@ Kraftwerk se formó a finales de 1960 con una propuesta reconocida por el uso de
 
 ## THE MAN-MACHINE ##
 
-##CONTEXTO##
 Se publicó en el año 1978 en Alemania, una época aún marcada por al postguerra y pleno auge tecnológico. En esta propuesta se evidencia la estética que proponen los fundadores de mezclar lo humano con lo mecánico.
 
 El álbum se caracteriza por canciones con ritmos planos y repetitivos, con sonidos artificiales e hipnóticos. Por otro lado la voz se caracteriza por crecer de emoción, casi artificial, algo que se puede relacionar a algunas canciones de la banda Rammstein.
