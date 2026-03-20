@@ -50,11 +50,19 @@ martes 17 de marzo
 
 ### Ejercicio 3
 
+![tercer ejercicio](./imagenes/circuito3.jpg)
+
 | loquitoportilocoloco | D1 | D2 | D3 | D4 |
 | -------------------- | -- | -- | -- | -- |
-| R1                   |    |    |    |    |
-| R2                   |    |    |    |    |
-| R3                   |    |    |    |    |
-| R4                   |    |    |    |    |
-| R5                   |    |    |    |    |
-| R6                   |    |    |    |    |
+| R1                   | 1  | 1  | 1  | 1  |
+| R2                   | 1  | 1  | 1  | 1  |
+| R3                   | 0  | 0  | 0  | 0  |
+| R4                   | 1  | 0  | 1  | 0  |
+| R5                   | 1  | 1  | 1  | 0  |
+| R6                   | 1  | 1  | 1  | 0  |
+
+## Parte 2
+
+###  Kraftwerk
+
+### LCD Soundsystem
