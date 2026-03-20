@@ -123,9 +123,9 @@ Como mencione, a pesar de haberlo realizado, me costó entenderlo nuevamente
 | resistencias  | posiciones   |
 | ---           | ---          | 
 | R1            |    I2,I5     |   
-| R3            |    I6,I11    |   
-| R4            |    C5,C9     |    
-| R2            |    G5,D5     |  
+| R2            |    I6,I11    |   
+| R3            |    C5,C9     |    
+| R4            |    G5,D5     |  
 | R5            |    G12,G14   | 
 
 Ejercicio 2
@@ -135,8 +135,27 @@ Ejercicio 2
 3. Después no se que paso que no prendian las luces al conectarlo todo (se me quemaron 2)
 4. Es tan sensible que con solo posicionar las resistencias por encima de donde deben ir se encienden los LED
 
+| loquitoportilocoloco | D1 | D2 | D3 |
+| -------------------- | -- | -- | -- |
+| R1                   |  1 |  0 |  0 |
+| R2                   |  1 |  0 |  0 |
+| R3                   |  1 |  0 |  0 |
+| R4                   |  1 |  0 |  0 |
+| R5                   |  0 |  1 |  1 |
+| R6                   |  1 |  1 |  0 |
+| R7                   |  1 |  1 |  0 |
+| R8                   |  1 |  1 |  0 |
 
-
+| resistencias  | posiciones   |
+| ---           | ---          | 
+| R1            |    I14,I16   |   
+| R2            |    I16,I18   |    
+| R3            |    I18,I20   |    
+| R4            |    I20,I24   |  
+| R5            |    I11,14    |
+| R6            |    I22,I26   |    
+| R7            |    I26,I28   |  
+| R8            |    G29,E29   | 
 
 
 
