@@ -27,6 +27,8 @@ Los primeros dos colores son los primeros dos dígitos, mientras que el tercer c
 
 Se nos mostraron ejemplos de circuitos en la pizarra para enseñarnos que no solo existen los circuitos básicos, sino que también están los paralelos, en donde los LED son independientes. Aparte, se nos mostró que hay distintas maneras en las que se puede representar la batería, la cual no necesariamente tiene que estar como un solo símbolo, sino que se puede separar a los dos extremos como 9v y 0v.
 
+---
+
 ### Encargo LQXTLC (Lo Quito X Ti, Lo Coloco)
 
 #### Primer circuito
@@ -68,3 +70,25 @@ Se nos mostraron ejemplos de circuitos en la pizarra para enseñarnos que no sol
 | R4                   |  1  |  0  |  1  |  0  |
 | R5                   |  1  |  1  |  1  |  1  |
 | R6                   |  1  |  1  |  1  |  1  |
+
+---
+
+### Encargo artistas
+
+#### Kraftwerk
+
+Escuché el álbum Die Mensch-Maschine, publicado el 19/05/1978. Al inicio estaba escuchando la versión en inglés, pero al terminar el álbum se empezó a reproducir la versión en alemán, la cual encontré aún más interesante ya que no podía entender lo que decían y de igual manera sonaba agradable.
+
+La canción Spacelab entre los primeros 40 segundos me recordó por un momento al álbum Mother Earth's Plantasia (1976), pero puede que sea sólo por el juego en loop que hace con las notas de bajas a altas y su velocidad. Otra cosa que se me hizo curioso es como en todo el disco cantan con voces robóticas, pero se hace la excepción en Das Model y en Neonlicht en donde usan la voz humana.
+
+![Portada del álbum](./imagenes/die-mensch-maschine.jpg)
+
+La portada está inspirada en el artista ruso El Lissitzky y en el movimiento supremacista. En la fotografía tomada por Gunther Frohling, los integrantes estaban usando camisas rojas y corbatas negras, lo cual daba pistas sobre la critica al comunismo ruso que usó al proletariado de manera poco humana, pareciendo robótica y dominada. Ésto también se puede observar en las presentaciones en vivo, en donde los integrantes se van alejando de sus puestos en el escenario y son reemplazados por los muñecos robots, copias de ellos mismos. En la última canción del álbum, Die Mensch-Maschine, se repite en todo momento "die mensch-maschine", con una voz robótica, demostrando así el como el hombre tiene que trabajar de manera mecánica, al igual que una máquina, sin tener como opción el poder distinguirse de los demás.
+
+#### LCD Soundsystem
+
+![Portada Sound of Silver](./imagenes/sound-of-silver.jpg)
+
+Escuché el álbum Sound of Silver, publicado el 12/03/2007. Las canciones del álbum tienen ritmos repetitivos, lo cual hace que sea fácil de escuchar y que te guste, pero lo más interesante son las letras existencialistas de Murphy.
+
+La canción más famosa del álbum es "All my Friends", la cual habla sobre desamor, por lo cual la gente asume que fue inspirada respecto a una ruptura amorosa, pero la realidad es que Murphy se inspiró en la muerte de su psicólogo, el cual había fallecido poco antes de que se pusieran a grabar el álbum. En lo personal, "All my Friends" no es de mi gusto ya que las intros largas me aburren, pero en [esta presentación](https://www.youtube.com/watch?v=FlogJqMFaYA&list=RDFlogJqMFaYA&start_radio=1) me gusta bastante, ya que lo encuentro algo muy emocional, lo cual me permite conectar con la ésta. Mi canción favorita del álbum es "Sound of Silver", en específico los últimos minutos en donde se pueden escuchar lo que parecen ser metales chocando, lo cual me recuerda bastante a la canción ["Scared"](https://www.youtube.com/watch?v=Gvn_plPtgE4&list=RDGvn_plPtgE4&start_radio=1) de P1harmony, ya que el inicio de ésta canción es con ruidos metálicos, razón por la cual a muchos fans no les gusta solo por ésta introducción, pero a mi parecer, es bastante entretenido y bailable.

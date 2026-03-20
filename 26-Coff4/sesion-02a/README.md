@@ -28,3 +28,87 @@ Al hacer un circuito el cable negativo debe ir al lado de la resistencia y no en
 *Un circuito electrico es un circuito cerrado y resistivo*
 
 - Los componentes tienen sus propios nombres siendo: R1 Y R2 con sus respectivos D1 y D2
+  
+- Vcc: voltaje de alimentación/ corriente continua (Estos cables
+- Gnd: Ground/Tierrra
+
+- Algunas cositas hechas en clase:
+
+![Primera prueba de circuito](./imagenes/clase.jpg)
+
+![Circuito paralelepipedo](./imagenes/circuito-paralelo.jpg)
+
+---
+
+## Ejercicios:
+
+1: 
+
+![Primer ejercicio](./imagenes/ejercicio-uno.png)
+
+| loquitoportilocoloco  | D1    | D2    | D3    | D4    |
+| ---                   | ---   | ---   | ---   | ---   |
+| R1                    |   0   |  0    |  0    | 0     |
+| R3                    |  1    |   1   |   1   |   0   |
+| R4                    |  1    |  1    | 1     |  0    |
+| R2                    |  1    |   0   |  0    |  1    |
+| R5                    |    0  |   0   |  1    |   0   |
+
+
+2:
+
+![Segundo ejercicio](./imagenes/ejercicio-dos.png)
+
+
+| loquitoportilocoloco | D1 | D2 | D3 |
+| -------------------- | -- | -- | -- |
+| R1                   | 1   |  0  |1    |
+| R2                   | 1   |  0  | 1   |
+| R3                   |  1  | 0   | 1   |
+| R4                   | 1   |  0  |  1  |
+| R5                   | 0   |   1 |  1  |
+| R6                   |  1  |  1  |  1  |
+| R7                   | 1   |  1  |  1  |
+| R8                   | 1   |  1  |   0 |
+
+3:
+
+![Tercer ejercicio](./imagenes/ejercicio-tres.png)
+
+
+| loquitoportilocoloco | D1 | D2 | D3 | D4 |
+| -------------------- | -- | -- | -- | -- |
+| R1                   |  1  | 1   | 1   | 1   |
+| R2                   | 1   | 1   | 1   |  1  |
+| R3                   | 1   |  1  |  0  |  1  |
+| R4                   |  1  |  0  |  1  |  0  |
+| R5                   |  1  |  0  |  1  |  0  |
+| R6                   | 1   |  1  | 1   |  0  |
+
+---
+
+Proceso del encargo:
+
+- Todo comienza una vez termina taller. Estaba bastante perdida tal vez demasiado ya que normalmente a mí me cuesta dimensionar las cosas... sobre todo con circuitos que parecen abstractos.
+
+- Al llegar al Lid tomé consejos de la Bernardita, una gran ayuda del Mateo, consejos del señor Humildad, de la Cami y el Felix. Muchas gracias a todos por ayudarme!
+
+- Cosa que comencé a hacer los ejercicios uno por uno. Hice copy paste a la tabla del primer ejercicio por cada uno *grave error*
+
+- Me confundí y terminé solo haciendo hasta R5 en todos los ejercicios (maldita sea)
+
+- Por lo tanto guardé mis cosas y me fui a la casa. Al día siguiente ya para la noche rehice todos los ejercicios y ya pude entender los esquemáticos sin muchas complicaciones.
+
+
+Ahora dejaré fotos del proceso tanto en el Lid como en mi casa 	＼(≧▽≦)／
+
+
+![Primera vez haciendo el encargo](./imagenes/intento-de-ejercicio.jpg)
+
+![Progreso](./imagenes/solucion-dos.jpg)
+
+![Más progreso](./imagenes/solucion-tres.jpg)
+
+![En calma y en casa](./imagenes/en-casa.jpg)
+
+![Ultima solucion de circuitos](./imagenes/en-casa-dos.jpg)
