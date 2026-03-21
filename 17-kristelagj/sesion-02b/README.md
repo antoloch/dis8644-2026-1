@@ -22,7 +22,8 @@ Por otro lado, se reconoce cada elemento que se nos entregó de manera visual, p
 Tipos de circuitos
 
 **Básico:**
-**Paralelo**
+
+**Paralelo:**
 
 Elementos para realizar el circuito
 
