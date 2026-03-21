@@ -32,7 +32,7 @@ En el disco se pueden escuchar sintetizadores “sucios” y distorsionados que 
   
 + Rolling Stone. (2021)LCD Soundsystem – Sound of Silver. En 250 Greatest Albums of the 21st Century So Far. Recuperado de <https://au.rollingstone.com/music/music-lists/250-greatest-albums-21st-century-so-far-list-72621/lcd-soundsystem-sound-of-silver-4-72826/>
 
-#LOQUITOPORTILOCOLOCO#
+# LOQUITOPORTILOCOLOCO #
  
 ## Ejercicio n°1 ##
 
