@@ -154,5 +154,8 @@ La letra "B" indica que el cambio de resistencia es constante y proporcional al 
 
 1. Aún no comprendo y como interpretar los nodos en el esquematico.
 2. Necesito saber el porque de porque se deben colocar las cosas de esa manera, osea porque debo colocar un cable de cierta forma y no de otra, por ejemplo.
-3. 
+3. Lugares en youtube donde me expliquen la materia que estamos viendo y/o páginas que sean en español
+4. De que forma uno se puede aprender todos los nombres ¿tienen algún sistema/tabla/etc? Aún me cuesta
+5. El ejercicio de la clase pasada no lo entendí  (revisar mi cuaderno)
+6. 
 
