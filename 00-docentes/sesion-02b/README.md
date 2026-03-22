@@ -2,6 +2,12 @@
 
 viernes 20 marzo 2026
 
+vimos el chip 555.
+
+lo conectamos con un potenciómetro como entrada, y con un fotorresistor.
+
+la salida la conectamos a un LED, y vimos que la frecuencia de parpadeo del LED depende de la resistencia de entrada.
+
 ## encargo-02b
 
 1. ordenar las bitácoras de cada sesión, incluyendo las imágenes de forma ordenada.
