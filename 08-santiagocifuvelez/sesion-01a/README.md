@@ -2,15 +2,6 @@
 
 ## REPORTE INVESTIGATIVO ESCRITO del documental “Sisters with Transistors” 
 
-ASIGNATURA: Taller de diseño de máquinas electrónicas 
-
-PROFESOR(ES)(A): Aarón Montoya Moraga, Matías Serrano y Emiliana 
-Guerra
-
-ESTUDIANTE: Santiago Cifuentes Vélez 
-
-CIUDAD: Santiago de Chile 
-
 ### RESUMEN 
 En este reporte escrito se expondrá una pequeña presentación del 
 documental “Sisters with transistors” a manera de introducción a 
