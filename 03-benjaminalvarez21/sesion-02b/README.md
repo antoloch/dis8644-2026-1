@@ -26,6 +26,14 @@ https://www.youtube.com/watch?v=ssMNCIUPOLI
 
 ### practica materia
 
+soy nuevo en esto de los circutos y conexiones, entonces se me hace complicado el entender los esquemas de los circuitos para despues pasarlos a la protoboard, por ejemplo, en el ejercio del encargo lqxtlc llen de cables porque no entendia las conexiones
+
+![lqxtlc ejercicio](./imagenes/ejercicio-1.jpg)
+
+entonces me preguntaba como podia evitar tanto ruido visual de cables, asi que lo volvi a practicar para simplificar la conexion del circuito teniendo como resultado algo mucho mas liviano visualmente y mas bonito
+
+![resultado](./imagenes/ejercicio-practica.jpeg)
+
 ### preguntas
 
 1. ¿puedo concectar mas de dos baterias a la protoboard?
