@@ -43,6 +43,8 @@ Volviendo al ejemplo de la reserva de agua del profesor:
 
 *Mientras más angosta (más resistencia), menos agua pasa.*
 
+#### Código de color de resistencias 
+
 
 
 
