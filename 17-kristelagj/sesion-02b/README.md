@@ -157,6 +157,7 @@ La letra "B" indica que el cambio de resistencia es constante y proporcional al 
 5. El ejercicio de la clase pasada no lo entendí (el matematico) 
 6. ¿Donde puedo buscar más ejercicios para practicar?
 7. ¿Cómo puede llegar a explotar un capacitor y como preevenir eso?
-8. 
+8. ¿Cómo llevar a la practica en cosas cotidiana todo lo que estamo viendo?
 9. 
+10. 
 
