@@ -29,4 +29,8 @@ La interpretación de "amor" como "sin muerte" (A-mors) es una etimología poét
 
 * David Tudor: David Eugene Tudor fue un pianista y compositor estadounidense de música experimental. Estudió piano con Stefan Wolpe y al tiempo ganó fama como uno de los principales intérpretes de la música de vanguardia para piano.
 * Jhon Cage: La importancia del silencio en el arte. Pionero de la música aleatoria, de la música electrónica y del uso no estándar de instrumentos musicales.
-  
+
+### Interruptores
+
+* **Switch:** controlan el flujo de corriente para encender/apagar cargas.
+* **Temporales:** automatizan este proceso basándose en el tiempo.
